@@ -4,7 +4,6 @@
 <p>Welcome. </br> I'm Fernando, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> <b>Peru</b>. </p>
 <h3>Things I code with for now</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 <h3>Where to find me</h3>
