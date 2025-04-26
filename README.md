@@ -6,7 +6,7 @@
 - 📝 Collaborated with the Cornell Atkinson Center for Sustainability and SeaBridge Sustainability to contribute to [The Little Book of Nature Business (Global Canopy, forthcoming 2025)](https://globalcanopy.org/wp-content/uploads/2024/10/Little-Book-of-Nature-Business-preview-document-2024.pdf)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferinjoque) [![Gmail]([https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:github@injoque.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferinjoque) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:github@injoque.dev)
 
 
 # 💻 Tech Stack
