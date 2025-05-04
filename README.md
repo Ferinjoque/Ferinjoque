@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernando Injoque 👋</h1>
 <h3 align="center">AI Developer & Sustainability Consultant at SeaBridge Sustainability 🍃 | Software Engineering Student 💻</h3>
 
-- 👨‍💻 Check my [Portfolio](https://injoque.dev/)
+- 👨‍💻 Check my [Portfolio](https://injoque.dev/?utm_source=github)
 - 📝 Collaborated with the Cornell Atkinson Center for Sustainability and SeaBridge Sustainability to contribute to [The Little Book of Nature Business (Global Canopy, forthcoming 2025)](https://globalcanopy.org/wp-content/uploads/2024/10/Little-Book-of-Nature-Business-preview-document-2024.pdf)
 
 
