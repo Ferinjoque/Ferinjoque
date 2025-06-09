@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ferinjoque/Ferinjoque/main/header.jpg" alt="Fernando Injoque">
+  <img src="https://raw.githubusercontent.com/Ferinjoque/Ferinjoque/main/header.png" alt="Fernando Injoque">
 </div>
 
 <h1 align="center">Hi, I'm Fernando Injoque 👋</h1>
