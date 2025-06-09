@@ -69,8 +69,8 @@
 
 ### 🏅 My Certification
 <div align="center">
-  <a href="https://www.credly.com/badges/00634f82-b07f-437a-a330-4cf180451523/public_url">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-437a-a330-4cf180451523/image.png" alt="GitHub Foundations Certification" width="150" height="150">
+  <a href="https://www.credly.com/badges/b5b4cdd5-568f-44e4-b231-5920e84262f9/public_url">
+    <img src="https://raw.githubusercontent.com/Ferinjoque/Ferinjoque/main/github-foundations.jpg" alt="GitHub Foundations Certification" width="150" height="150">
   </a>
 </div>
 
