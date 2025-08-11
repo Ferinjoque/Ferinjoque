@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Fernando Injoque 👋</h1>
-<h3 align="center">AI Developer & Sustainability Consultant 🌱 | Software Engineering Student 💻</h3>
+<h3 align="center">ESG Data & Automation Specialist – Sustainability Consultant 🌱 | Software Engineering Student 💻</h3>
 
 <p align="center">
   I'm passionate about leveraging technology to build a more sustainable future. My focus is on developing AI-driven solutions and contributing to impactful environmental projects.
