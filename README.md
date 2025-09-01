@@ -2,35 +2,26 @@
   <img src="https://raw.githubusercontent.com/Ferinjoque/Ferinjoque/main/header.png" alt="Fernando Injoque">
 </div>
 
-<h1 align="center">Hi, I'm Fernando Injoque 👋</h1>
-<h3 align="center">ESG Data & Automation Specialist – Sustainability Consultant 🌱 | Software Engineering Student 💻</h3>
+<h1 align="center">Fernando Injoque</h1>
+<h3 align="center">ESG Data & Automation Specialist | Research Assistant (The Little Book of Nature Business) | Sustainability Consultant | Academia Pillar Associate (LEAD UTP) | Software Engineering (B.Sc. in progress, Dean’s List ×4)</h3>
 
 <p align="center">
-  I'm passionate about leveraging technology to build a more sustainable future. My focus is on developing AI-driven solutions and contributing to impactful environmental projects.
+  I am a software engineering student and practitioner focused on engineering robust data systems and AI-driven automation to address ESG reporting and sustainability strategy challenges. My work integrates software engineering best practices (version control, CI/CD, testing, reproducible notebooks) with domain-specific methodologies for greenhouse gas accounting, resource analytics and ESG benchmarking.
 </p>
 
-<div align="center">
-  <a href="https://injoque.dev/?utm_source=github">
-    <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/ferinjoque">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:github@injoque.dev">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+---
+
+## Professional Summary
+
+I bridge sustainability consulting and applied AI by designing, implementing and maintaining reproducible technical infrastructure for ESG data analysis and reporting. At SeaBridge Sustainability I design and implement pipelines for Scope 1 and Scope 2 accounting and deliver GRESB-aligned ESG reporting and materiality assessments for institutional portfolios. My responsibilities have included engineering and automating the data ingestion and calculation backend for proprietary ESG platforms (improving accuracy and scalability for greenhouse gas and resource analytics); leading data standardization and validation for energy, water and waste datasets (including integration with Energy Star Portfolio Manager and other sources); harmonizing datasets and applying standardized emission factors to calculate Scope 1 & 2 emissions across international portfolios; preparing GRESB-aligned submissions and component-level reporting; and conducting materiality assessments and gap analyses to inform prioritized ESG engagement strategies.
+
+I have contributed as a Research Assistant to *[The Little Book of Nature Business](https://globalcanopy.org/the-little-book-series/)* (collaboration via SeaBridge with Global Canopy and Cornell Atkinson), producing reproducible analyses, curated datasets and synthesized case-study research to support the book’s chapters. In academic and community contexts I serve as an Academia Pillar Associate for LEAD UTP, supporting program delivery, student outreach and event orchestration for technology and AI initiatives. I co-lead efforts to prepare and refine labeled datasets and prompts for ESG-focused AI agents, improving model outputs and operationalizing AI-generated insights within consulting workflows.
+
+I am available for collaborations on data-driven ESG projects, AI for sustainability, and industry–academia initiatives. I prioritize transparency, reproducibility and traceability in all deliverables and adopt engineering practices that enable peer review, automated validation and reproducible publication of results.
 
 ---
 
-### 🌱 My Recent Work
-
-- **AI & Sustainability Consulting:** Currently at **SeaBridge Sustainability**, advising on AI applications for environmental solutions.
-- **Collaborative Research:** Contributed to **[The Little Book of Nature Business](https://globalcanopy.org/wp-content/uploads/2024/10/Little-Book-of-Nature-Business-preview-document-2024.pdf)** with the Cornell Atkinson Center for Sustainability.
-
----
-
-<h3 align="center">🤖 My Tech Stack & Tools</h3>
+<h3 align="center">🤖 Technical Stack & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   &nbsp;
@@ -67,16 +58,25 @@
 
 ---
 
-### 🏅 My Certification
-<div align="center">
-  <a href="https://www.credly.com/badges/b5b4cdd5-568f-44e4-b231-5920e84262f9/public_url">
-    <img src="https://raw.githubusercontent.com/Ferinjoque/Ferinjoque/main/github-foundations.png" alt="GitHub Foundations Certification" width="150" height="150">
-  </a>
-</div>
+## Certifications
+
+- GitHub Foundations — GitHub (Issued Jun 2025)  
+- GRESB Infrastructure Assessments — GRESB (Issued May 2025)  
+- AI-Powered Software and System Design — DeepLearning.AI (Issued Feb 2025)  
+- Generative AI for Software Development — DeepLearning.AI (Issued Feb 2025)  
+- Team Software Engineering with AI — DeepLearning.AI (Issued Feb 2025)  
+- ESG and Climate Change — University of Pennsylvania (Issued Jan 2025)  
+- ESG and Social Activism — University of Pennsylvania (Issued Jan 2025)  
+- The Materiality of ESG Factors — University of Pennsylvania (Issued Jan 2025)  
+- ESG Impact: Investor Perspective — University of Pennsylvania (Issued Dec 2024)  
+- ESG Risks and Opportunities — University of Pennsylvania (Issued Dec 2024)  
+- Introduction to Generative AI for Software Development — DeepLearning.AI (Issued Dec 2024)  
+- Multi AI Agent Systems with crewAI — DeepLearning.AI (Issued Dec 2024)  
+- International English Language Testing System (IELTS) — British Council (Issued Feb 2022)
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+## GitHub Stats & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferinjoque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -85,3 +85,13 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Ferinjoque&theme=dracula&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## Contact
+
+- Website: [injoque.dev](https://injoque.dev/?utm_source=github)  
+- LinkedIn: [linkedin.com/in/ferinjoque](https://linkedin.com/in/ferinjoque)  
+- Email: collab@injoque.dev
+
+---
