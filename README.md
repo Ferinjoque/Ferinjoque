@@ -17,8 +17,6 @@ I bridge sustainability consulting and applied AI by designing, implementing and
 
 I have contributed as a Research Assistant to *[The Little Book of Nature Business](https://globalcanopy.org/the-little-book-series/)* (collaboration via SeaBridge with Global Canopy and Cornell Atkinson), producing reproducible analyses, curated datasets and synthesized case-study research to support the book’s chapters. In academic and community contexts I serve as an Academia Pillar Associate for LEAD UTP, supporting program delivery, student outreach and event orchestration for technology and AI initiatives. I co-lead efforts to prepare and refine labeled datasets and prompts for ESG-focused AI agents, improving model outputs and operationalizing AI-generated insights within consulting workflows.
 
-I am available for collaborations on data-driven ESG projects, AI for sustainability, and industry–academia initiatives. I prioritize transparency, reproducibility and traceability in all deliverables and adopt engineering practices that enable peer review, automated validation and reproducible publication of results.
-
 ---
 
 <h3 align="center">🤖 Technical Stack & Tools</h3>
