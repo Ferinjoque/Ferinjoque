@@ -3,19 +3,11 @@
 </div>
 
 <h1 align="center">Fernando Injoque</h1>
-<h3 align="center">ESG Data & Automation Specialist | Research Assistant (The Little Book of Nature Business) | Sustainability Consultant | Academia Pillar Associate (LEAD UTP) | Software Engineering (B.Sc. in progress, Dean’s List ×4)</h3>
+<h3 align="center">ESG Data & Automation Specialist | Academia Pillar Associate (LEAD UTP) | Software Engineering (B.Sc. in progress, Dean’s List ×4)</h3>
 
 <p align="center">
   I am a software engineering student and practitioner focused on engineering robust data systems and AI-driven automation to address ESG reporting and sustainability strategy challenges. My work integrates software engineering best practices (version control, CI/CD, testing, reproducible notebooks) with domain-specific methodologies for greenhouse gas accounting, resource analytics and ESG benchmarking.
 </p>
-
----
-
-## Professional Summary
-
-I bridge sustainability consulting and applied AI by designing, implementing and maintaining reproducible technical infrastructure for ESG data analysis and reporting. At SeaBridge Sustainability I design and implement pipelines for Scope 1 and Scope 2 accounting and deliver GRESB-aligned ESG reporting and materiality assessments for institutional portfolios. My responsibilities have included engineering and automating the data ingestion and calculation backend for proprietary ESG platforms (improving accuracy and scalability for greenhouse gas and resource analytics); leading data standardization and validation for energy, water and waste datasets (including integration with Energy Star Portfolio Manager and other sources); harmonizing datasets and applying standardized emission factors to calculate Scope 1 & 2 emissions across international portfolios; preparing GRESB-aligned submissions and component-level reporting; and conducting materiality assessments and gap analyses to inform prioritized ESG engagement strategies.
-
-I have contributed as a Research Assistant to *[The Little Book of Nature Business](https://globalcanopy.org/the-little-book-series/)* (collaboration via SeaBridge with Global Canopy and Cornell Atkinson), producing reproducible analyses, curated datasets and synthesized case-study research to support the book’s chapters. In academic and community contexts I serve as an Academia Pillar Associate for LEAD UTP, supporting program delivery, student outreach and event orchestration for technology and AI initiatives. I co-lead efforts to prepare and refine labeled datasets and prompts for ESG-focused AI agents, improving model outputs and operationalizing AI-generated insights within consulting workflows.
 
 ---
 
