@@ -7,7 +7,7 @@
     <a href="https://linkedin.com/in/ferinjoque">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:fernando@injoque.dev">
+    <a href="mailto:collab@injoque.dev">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://injoque.dev/">
