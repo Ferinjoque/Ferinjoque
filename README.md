@@ -48,7 +48,7 @@ I specialize in Full-Stack development using **React** and **Python**, while hea
 * **AI Integration:** Directing data cleaning strategies to fine-tune specialized ESG AI agents, creating golden datasets for GRESB performance components.
 * **Data Logic:** Developing standardized calculation methodologies for Scope 1 & 2 GHG emissions, integrating diverse datasets from global environmental frameworks.
 
-#### **UNEP FI | Technical Lead (Volunteer)**
+#### **UNEP FI | Technical Lead**
 * **Full-Stack Benchmarking:** Architected an AI benchmarking platform (React/FastAPI) to automate sustainability report assessments.
 * **RAG Implementation:** Orchestrated a robust RAG pipeline with Docker and AWS S3, enabling concurrent batch processing of complex financial documents.
 * **Intelligent Automation:** Engineered asynchronous Python services to map unstructured PDF data to Global Biodiversity Framework targets using semantic AI verification.
