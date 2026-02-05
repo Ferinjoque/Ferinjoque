@@ -48,27 +48,13 @@ I specialize in Full-Stack development using **React** and **Python**, while hea
 * **AI Integration:** Directing data cleaning strategies to fine-tune specialized ESG AI agents, creating golden datasets for GRESB performance components.
 * **Data Logic:** Developing standardized calculation methodologies for Scope 1 & 2 GHG emissions, integrating diverse datasets from global environmental frameworks.
 
-#### **UNEP FI | Technical Lead**
+#### **Global Environmental & Finance NGO (Name Confidential) | Technical Lead**
 * **Full-Stack Benchmarking:** Architected an AI benchmarking platform (React/FastAPI) to automate sustainability report assessments.
 * **RAG Implementation:** Orchestrated a robust RAG pipeline with Docker and AWS S3, enabling concurrent batch processing of complex financial documents.
 * **Intelligent Automation:** Engineered asynchronous Python services to map unstructured PDF data to Global Biodiversity Framework targets using semantic AI verification.
 
 #### **Research**
-* **Global Canopy:** Contributing Researcher for *"The Little Book of Nature Business"*, authoring technical case studies on food systems, utilities, and extractives.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ferinjoque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="Fernando's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferinjoque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="Fernando's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferinjoque&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+* **Global Canopy:** Contributing Editor for *"The Little Book of Nature Business"*, authoring technical case studies on food systems, utilities, and extractives.
 
 ---
 
