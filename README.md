@@ -48,7 +48,7 @@ My work focuses on:
 * **Clinical UX:** Modernizing Electronic Health Record (EHR) modules to streamline clinical documentation and automated data validation.
 
 #### **📚 Publications**
-* **"The Little Book of Nature Business" (2026):** Contributing Editor for Global Canopy, authoring technical case studies on nature-positive business models in food systems and energy.
+* **["The Little Book of Nature Business" (2026)](https://globalcanopy.org/insights/publication/introducing-the-little-book-of-nature-business/):** Contributing Editor for Global Canopy, authoring technical case studies on nature-positive business models in food systems and energy.
 
 ---
 
