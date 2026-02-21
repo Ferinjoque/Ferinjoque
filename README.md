@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** and **AI Researcher** based in Lima, Peru. I specialize in building scalable digital ecosystems that solve complex data challenges.
+I am a **Software Engineer** and **AI Researcher**. I specialize in building scalable digital ecosystems that solve complex data challenges.
 
 My work focuses on:
 * **Sustainability Tech:** Automating ESG reporting and GHG calculations using autonomous agents.
