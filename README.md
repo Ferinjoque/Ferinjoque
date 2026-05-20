@@ -17,7 +17,6 @@ I build the infrastructure between raw sustainability data and something decisio
 TypeScript · Python · Java · R · SQL
 Next.js · React · FastAPI · Node.js
 Supabase · PostgreSQL · Docker · AWS
-LangChain · OpenAI API · Multi-Agent Systems
 GHG Protocol · GRESB · TNFD · GBF
 ```
 
