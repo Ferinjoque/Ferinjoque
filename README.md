@@ -21,8 +21,6 @@ LangChain · OpenAI API · Multi-Agent Systems
 GHG Protocol · GRESB · TNFD · GBF
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferinjoque&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&title_color=2d6a4f&icon_color=2d6a4f&text_color=333)
-
 ---
 
 **Contact**
