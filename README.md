@@ -7,7 +7,7 @@ I build the infrastructure between raw sustainability data and something decisio
 ---
 
 **Currently building**
-- SeaBridgeAI™ — institutional ESG intake platform (React, TypeScript) at [SeaBridge Sustainability](https://seabridgesustainability.com)
+- SeaBridgeAI™ — institutional ESG intake platform at [SeaBridge Sustainability](https://seabridgesustainability.com)
 
 **Research**
 - Contributing Editor, *The Little Book of Nature Business* — Global Canopy & Cornell Atkinson, 2026
