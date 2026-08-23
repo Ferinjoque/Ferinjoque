@@ -1,26 +1,27 @@
-## Fernando Injoque
+# Fernando Injoque
 
-Software engineer + AI researcher working at the intersection of climate tech and autonomous systems.
+Software engineer and researcher. I build infrastructure for climate tech and scientific computing.
 
-I build the infrastructure between raw sustainability data and something decision-ready — GHG calculation engines, RAG pipelines over unstructured ESG disclosures, and the SaaS layer that ties it together.
+My work focuses on backend architecture, data pipelines, and distributed systems. I turn raw technical data into usable tools for financial and scientific applications.
 
----
+## Current Work
 
-**Currently building**
-- SeaBridgeAI™ — institutional ESG intake platform at [SeaBridge Sustainability](https://seabridgesustainability.com)
+- **Purdue University ECE:** Visiting research intern in computational nanotechnology. I write scalable code and build data infrastructure for semiconductor simulation.
+- **SeaBridge Sustainability:** Lead engineer for the SeaBridge platform. I build retrieval systems and data pipelines for corporate sustainability reporting.
 
-**Research**
-- Contributing Editor, *The Little Book of Nature Business* — Global Canopy & Cornell Atkinson, 2026
+## Research
 
-**Stack**
-```
-TypeScript · Python · Java · R · SQL
+- Contributing Editor, *The Little Book of Nature Business* (Global Canopy and Cornell Atkinson, 2026).
+
+## Stack
+
+```text
+TypeScript · Python · C++ · Java · SQL
 Next.js · React · FastAPI · Node.js
-Supabase · PostgreSQL · Docker · AWS
+Supabase · PostgreSQL · MongoDB · Docker
 GHG Protocol · GRESB · TNFD · GBF
 ```
 
----
+## Contact
 
-**Contact**
 [injoque.dev](https://injoque.dev) · [linkedin.com/in/ferinjoque](https://linkedin.com/in/ferinjoque) · collab@injoque.dev
